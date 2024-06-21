@@ -10,7 +10,7 @@ int main()
 	cout << "Введите второеое число: "; cin >> second_number << endl;
 
 	cout << "Сумма этих чисел: " << first_number + second_number << endl;
-	cout << "Разность этих чисел: " << first_number - second_number;
+	cout << "Разность этих чисел: " << first_number - second_number << endl;
 
 	return 0;
 }
